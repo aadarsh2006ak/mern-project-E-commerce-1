@@ -1,0 +1,4 @@
+- [x] Add null checks for userData in backend cart controllers
+- [x] Remove incorrect await on cartData in backend
+- [x] Update frontend getUserCart to default cartData to {} if null
+- [x] Test the fixes to ensure no more null errors
